@@ -7,6 +7,13 @@
     }
   ],
   "student": [
-    
+    {
+      "fl": "kk",
+      "ln": "kk",
+      "em": "ll@gmail.com",
+      "ph": "1234567890",
+      "pass": "kk@1234",
+      "id": 4
+    }
   ]
 }
