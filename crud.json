@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "student": [
+    {
+      "fl": "Satya",
+      "ln": "Hembram",
+      "em": "satya@gmail.com",
+      "ph": "1234",
+      "pass": "1234",
+      "id": 1
+    },
+    {
+      "fl": "Satya",
+      "ln": "gg",
+      "em": "kk@gmail.com",
+      "ph": "0987654321",
+      "pass": "kk",
+      "id": 3
+    },
+    {
+      "fl": "kk",
+      "ln": "kk",
+      "em": "ll@gmail.com",
+      "ph": "1234567890",
+      "pass": "kk@1234",
+      "id": 4
+    }
+  ]
+}
